@@ -1,0 +1,15 @@
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ament_index/resource_index/package_run_dependencies/ros2_arm
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ament_index/resource_index/parent_prefix_path/ros2_arm
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/environment/ament_prefix_path.sh
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/environment/ament_prefix_path.dsv
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/environment/path.sh
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/environment/path.dsv
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/local_setup.bash
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/local_setup.sh
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/local_setup.zsh
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/local_setup.dsv
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/package.dsv
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ament_index/resource_index/packages/ros2_arm
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/cmake/ros2_armConfig.cmake
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/cmake/ros2_armConfig-version.cmake
+/home/kunal-jazzy/ros2_arm/install/ros2_arm/share/ros2_arm/package.xml
