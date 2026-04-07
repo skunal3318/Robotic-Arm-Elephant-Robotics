@@ -11,11 +11,9 @@
 ---
 
 ---
-
 ## Images
 
 <p align="center">
   <img src="Visuals/arm.png" width="800">
 </p>
-
 ---
